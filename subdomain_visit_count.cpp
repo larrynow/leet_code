@@ -35,13 +35,13 @@ public:
 
 	}
 };
-
-int main() {
-	Solution sol = Solution();
-	vector<string> vec{ "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" };
-	sol.subdomainVisits(vec);
-	//cout << << endl;
-
-	system("pause");
-	return 0;
-}
+//
+//int main() {
+//	Solution sol = Solution();
+//	vector<string> vec{ "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" };
+//	sol.subdomainVisits(vec);
+//	//cout << << endl;
+//
+//	system("pause");
+//	return 0;
+//}
