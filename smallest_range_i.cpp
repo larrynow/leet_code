@@ -12,12 +12,12 @@ public:
 	}
 };
 
-int main() {
-	Solution sol = Solution();
-	vector<int> input_vec = { 1,3,6 };
-	int  ans = sol.smallestRangeI(input_vec,3);
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution sol = Solution();
+//	vector<int> input_vec = { 1,3,6 };
+//	int  ans = sol.smallestRangeI(input_vec,3);
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}
