@@ -1,4 +1,5 @@
 /*
+ * Start to use leetcode plugin for vscode.
  * @lc app=leetcode id=528 lang=cpp
  *
  * [528] Random Pick with Weight
